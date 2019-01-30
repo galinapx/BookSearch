@@ -1,0 +1,16 @@
+.navbar {
+  border-radius: 0;
+}
+
+.jumbotron {
+  background-color: rgb(109, 109, 150);
+}
+
+.jumbotron h1,
+h2 {
+  color: white;
+}
+
+body {
+  background-color: rgb(183, 199, 199);
+}
